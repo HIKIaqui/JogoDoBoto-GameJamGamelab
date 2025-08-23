@@ -1,0 +1,1 @@
+Jogo de ritmo em que você, o Pajé do Carimbó vai atráas do boto após perseguí-lo por muito tempo. Sabe que ele estará em uma festa de carimbó, e assim vai até lá, para impedir que mais mulheres sejam vítimas do canto do boto, dançando seu carimbó para desfazer o feitiço do canto do boto.
